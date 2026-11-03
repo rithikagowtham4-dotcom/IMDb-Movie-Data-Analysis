@@ -41,7 +41,7 @@ The dataset contains 1,000 movie records and 12 columns, including:
 
 📁 Project File
 
-"IMDb_Movie_Analysis.ipynb"
+-[IMDb_Movie_Analysis](IMDb_Movie_Analysis.ipynb)
 
 👩‍💻 Author
 
